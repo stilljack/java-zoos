@@ -1,4 +1,4 @@
-# java-zoos
+# java-zooz
 
 A student that completes this project shows that they can:
 * Use Custom Queries using Spring-Data
